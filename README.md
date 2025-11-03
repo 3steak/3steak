@@ -6,9 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me  
-
-<img align="left" height="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev working gif"/>
+### 🧑‍💻 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" align="center"/> About Me  
 
 - 🐍 Building and learning with **Python**, **FastAPI**, and **React**
 - 🧠 Starting on **LeetCode** to improve algorithmic thinking
@@ -16,8 +14,6 @@
 - 📘 Reading *“Réseaux & Internet : comment ça marche”* to understand how the web really works  
 - 🎯 Goal: become a **remote freelance developer** — working with teams that value clean code and autonomy  
 - 🔴 Occasionally streaming on **[Twitch](https://twitch.tv/3steakfullsteak)** — sharing code, projects, and tech discovery  
-
-<br clear="left"/>
 
 ---
 
@@ -28,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -46,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="35" alt="LeetCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" style="filter: invert(80%) brightness(180%)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="PyCharm" />
@@ -70,11 +66,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/cyprienbocquet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/3steak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" /></a>
+  <a href="https://github.com/3steak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" style="filter: invert(100%) brightness(200%)"/></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/d66C8MNs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35" alt="Discord" style="filter: invert(60%) brightness(150%)"/></a>
+  <a href="https://discord.gg/d66C8MNs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35" alt="Discord" style="filter: invert(100%) brightness(200%)"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:cyprien.bocquet@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Gmail" style="filter: invert(80%) brightness(150%)"/></a>
+  <a href="mailto:cyprien.bocquet@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Gmail" style="filter: invert(100%) brightness(200%)"/></a>
 </p>
 
 ---
