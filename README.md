@@ -1,19 +1,21 @@
-## 👋 Hi there, I'm Cyprien Bocquet  
+<h2 align="left">👋 Hi there, I'm Cyprien Bocquet</h2>
 
-> Developer in training at **ENI – Concepteur Développeur d’Applications**, currently working with **Python** and **React**.  
-> Focused on backend logic, clean code, and modern web development.
+> 🎓 Currently in training at **ENI – Concepteur Développeur d’Applications**  
+> 💻 Working with **Python**, **React**, and **FastAPI**  
+> 🌱 Passionate about backend logic, clean code, and learning modern web technologies  
 
 ---
 
 ### 🧑‍💻 About Me  
-<img align="left" height="80" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NnFwc3oxYmZxdTN4Y2Rsb2tkMWVubnJqNzA0OHNhcG0zcmZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nF9KZ8zFJbA1JkwhkV/giphy.gif" />
+
+<img align="left" height="90" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev working gif"/>
 
 - 🐍 Building and learning with **Python**, **FastAPI**, and **React**
 - 🧠 Starting on **LeetCode** to improve algorithmic thinking
 - 🐧 Exploring **Omarchy**, my first full **Linux Arch** setup — learning system fundamentals  
-- 💡 Reading *“Réseaux & Internet : comment ça marche”* to better understand how the web really works
-- 🎯 Goal: become a **remote freelance developer** — working with teams that value clean code and autonomy
-- 🔴 Occasionally streaming on **[Twitch](https://twitch.tv/3steakfullsteak)** — sharing code, projects, and tech discovery
+- 📘 Reading *“Réseaux & Internet : comment ça marche”* to understand how the web really works  
+- 🎯 Goal: become a **remote freelance developer** — working with teams that value clean code and autonomy  
+- 🔴 Occasionally streaming on **[Twitch](https://twitch.tv/3steakfullsteak)** — sharing code, projects, and tech discovery  
 
 <br clear="left"/>
 
@@ -26,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -50,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="PyCharm" />
 </p>
 
-🧠 *Currently learning:* Python POO · React Hooks · API Design · Docker basics · Linux workflows  
+🧠 *Currently learning:* Python OOP · React Hooks · API Design · Docker basics · Linux workflows  
 
 ---
 
@@ -63,30 +65,22 @@
 
 ---
 
-### 💻 Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3steak&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 🤝 Connect  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cyprienbocquet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/3steak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://discord.gg/d66C8MNs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35" alt="Discord"/></a>
-  &nbsp;
-  <a href="mailto:cyprien.bocquet@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/3steak" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/d66C8MNs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35" alt="Discord" style="filter: invert(60%) brightness(150%)"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:cyprien.bocquet@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" alt="Gmail" style="filter: invert(80%) brightness(150%)"/></a>
 </p>
 
 ---
 
 ### ⚡ Outside of Code  
 
-- 🏄‍♂️ Surf and skate — focus, balance, and flow  
-- 🎮 Gaming — exploring creative and cooperative worlds 
-- 🧱 Experimenting with **3D printing** and **electronics** — bringing digital projects into reality  
+- 🏄 Surf & skate — for focus and balance  
+- 🎮 Gaming — creativity and teamwork  
+- 🧱 Experimenting with **3D printing** and **electronics** — bridging digital and physical creation  
