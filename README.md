@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" align="center"/> About Me  
+### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" align="center"/> About Me  
 
 - 🐍 Building and learning with **Python**, **FastAPI**, and **React**
 - 🧠 Starting on **LeetCode** to improve algorithmic thinking
