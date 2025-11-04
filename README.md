@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there, I'm Cyprien Bocquet</h2>
+<h2 align="left"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvZ3g0ajZtYjNwOTJhMnVvbmZvcGRzbWo5ZXhwYTdjNDhrcXR6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JNNjDI5SvkpgAO6dy3/giphy.gif" width="50" align="center"/> Hi there, I'm Cyprien Bocquet</h2>
 
 > 🎓 Currently in training at **ENI – Concepteur Développeur d’Applications**  
 > 💻 Working with **Python**, **React**, and **FastAPI**  
@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVxZnhkOWd5MTZwZnh6M21oYnpjdTZ6YnUxNXM0Z3o4dWNhYjFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcGZkaNyGDBx1DHVsB/giphy.gif" width="50" align="center"/> About Me  
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVxZnhkOWd5MTZwZnh6M21oYnpjdTZ6YnUxNXM0Z3o4dWNhYjFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcGZkaNyGDBx1DHVsB/giphy.gif" width="40" align="center"/> About Me  
 
 - 🐍 Building and learning with **Python**, **FastAPI**, and **React**
 - 🧠 Starting on **LeetCode** to improve algorithmic thinking
