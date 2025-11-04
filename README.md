@@ -17,7 +17,7 @@
 
 ---
 
-### ⚙️ Tech I work with  
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xxZXJ1b3NqaGx5dDFnZnd5azZnajY3MW8wc3hjbWVocWEzbm9qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UvPvsX9oMlMWs/giphy.gif" width="30" align="center"/> Tech I work with  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 🧩 Learning & Tools  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemprcXA5cmJqbzduM3hjdTJ5cjd1c25yOXZwY3V5ODU3eTlyNXo3YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bCBZaPWhl515tcyVjo/giphy.gif" width="30" align="center"/> Learning & Tools  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📈 GitHub Stats  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs5Z3Vxd2N5MDQxNHAweWt4ajN6cmJ3Ym56MTJ3emVzMmFudWswbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="30" align="center"/> GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3steak&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🤝 Connect  
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2E5c2J2N3RmeGdiNHVlNzUyMGk2enRpZGtibTJ3dG5meHlvamxiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HZrcDzLQuQu7OHXNhP/giphy.gif" width="30" align="center"/> Connect  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cyprienbocquet" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn"/></a>
