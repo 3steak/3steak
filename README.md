@@ -13,7 +13,6 @@
 - 🐧 Exploring **Omarchy**, my first full **Linux Arch** setup — learning system fundamentals  
 - 📘 Reading *“Réseaux & Internet : comment ça marche”* to understand how the web really works  
 - 🎯 Goal: become a **remote freelance developer** — working with teams that value clean code and autonomy  
-- 🔴 Occasionally streaming on **[Twitch](https://twitch.tv/3steakfullsteak)** — sharing code, projects, and tech discovery  
 
 ---
 
