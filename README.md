@@ -54,8 +54,16 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs5Z3Vxd2N5MDQxNHAweWt4ajN6cmJ3Ym56MTJ3emVzMmFudWswbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="30" align="center"/> GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3steak&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3steak&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=3steak&show_icons=true&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=3steak&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Top languages"
+  />
 </p>
 
 ---
